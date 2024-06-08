@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>src/java/ict/servlet/AddRecordServlet.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>38</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>web/recordDetail.jsp</url>
+            <bookmark id="4">
+                <name/>
+                <line>26</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/src/java/ict/db/AsmDB.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/web/s_ApprovePaidBooking.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/src/java/ict/bean/BookingRecordBean.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/web/menu.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/web/editCheckIn_Out.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/web/listVenues.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/src/java/ict/servlet/UpdateBookingStatusServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/src/java/ict/servlet/CheckInOut.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/asm_210309298/web/listBookingRequest.jsp</file>
+        </group>
+    </open-files>
+</project-private>
